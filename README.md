@@ -2,6 +2,10 @@
 Open source target discovery for cancer.
 
 
+___________________________________________________________________________________________
+COMPILING KNOWN TARGETS, AND ASSOCIATED FEATURES
+___________________________________________________________________________________________
+
 This repo is in building. As I write this, it is quite blank and needing of some love <3. 
 
 Here is what I have in mind.
