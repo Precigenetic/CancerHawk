@@ -18,4 +18,7 @@ With that, here is the actual portal: https://portal.gdc.cancer.gov/.
 
 I am starting with Brain and Blood. Breast and Lung are great starting points too.
 
+There is an interesting new update to TCGA, that allows you to pre-visualize a decent amount of scRNA-seq data: https://docs.gdc.cancer.gov/Data_Portal/Release_Notes/Data_Portal_Release_Notes/#release-240. 
+(scRNA-seq means RNA sequencing at single-cell level, i.e. each cell has its own RNA sequencing, and the cells are identified by a pkey called 'cellular barcode' and it is just a string with A's T's G's and C's.)
+
 See you on the other side. 
