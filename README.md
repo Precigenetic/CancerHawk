@@ -22,3 +22,6 @@ There is an interesting new update to TCGA, that allows you to pre-visualize a d
 (scRNA-seq means RNA sequencing at single-cell level, i.e. each cell has its own RNA sequencing, and the cells are identified by a pkey called 'cellular barcode' and it is just a string with A's T's G's and C's.)
 
 See you on the other side. 
+
+
+FOR THE LOVE OF GOD. DO NOT USE R CODE IN THIS REPO. ONLY PYTHON. OR ANY OTHER LANGUAGE.
